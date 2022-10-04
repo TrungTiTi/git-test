@@ -3,7 +3,7 @@ import React from 'react';
 const Test = () => {
     return (
         <div>
-            hihihi
+            <p>this is 1</p>
         </div>
     );
 };
